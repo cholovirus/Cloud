@@ -1,0 +1,5 @@
+# Desde el directorio backend
+docker push back:latest
+
+# Desde el directorio frontend
+docker push front:latest
